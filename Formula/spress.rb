@@ -28,5 +28,4 @@ class Spress < AbstractPhpPhar
       exit($return_var);
     EOS
   end
-
 end
