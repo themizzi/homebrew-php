@@ -5,7 +5,6 @@ class Spress < AbstractPhpPhar
   homepage "http://spress.yosymfony.com"
   url "https://github.com/spress/Spress/releases/download/v2.2.0/spress.phar"
   sha256 "06d77d17e97737ded9d0fc0ea3d2d3a93c4a7075879618dba5d0dfcaf1742049"
-  version "2.2.0"
 
   depends_on PharRequirement
 
